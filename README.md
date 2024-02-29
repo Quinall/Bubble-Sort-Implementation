@@ -21,7 +21,3 @@ To use this program, simply compile and run the code. It will generate a random 
 ## Contribution
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
